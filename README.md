@@ -10,7 +10,8 @@ nav_order: 1
 Chimera curiosity board is programmed with a default application. If a customer wants to run another demo, instead of going through regular ways of using MPLABX/MPLAB IPE, he can use DemoStore Concept to reprogram with another
 demo. DemoStore Concept is realized with the following
  - MBD App
- - DemoStoreConcept Utility
+ - DemoStoreConcept Utility 
+ 
  MBD App can be used to upgrade firmware in curiosity board if the exiting demo in curiosity board supports OTA DFU. Zigbee only demo can be programmed using MBD app if the previous program supports OTA DFU but 
  other demo application can't be programmed if the previous program is doesn't support OTA DFU.
  DemoStoreConcept Utility doesn't have any such restriction. Any available demo application can be programmed into Chimera curiosity board but MPLABX IPE needs to be installed on the PC and Chimera Curiosity  
